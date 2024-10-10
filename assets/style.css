@@ -47,16 +47,16 @@ body{
     border: raduis 0.6rem;
     font: size 1w;
 }
-   
-
-
-
-
-
-
-
-
-
+   .cartao__conteudo h3{ /*estilo do titulo do cartao*/
+    color: var(--text color):
+   border: 1px solid var(--text-color)
+    text-align: left; /*texto alinhado a esquerda*/
+    padding: 0.5rem; /*espaço internop de 0.5 raiz*/
+    position: absolute;/*posiciona o titulo em relaçao ao ''pai''*/
+    margin:0.6rem; /*margem externa de 0.6 raiz*/
+    border-raduis:0.6rem; /*borda arrendondada de 0.6 raiz*/
+    font-size:1vw;/*tamanho letra do titulo,1% largura raiz*/
+    backface-visibility:hidden;
 
 
 
