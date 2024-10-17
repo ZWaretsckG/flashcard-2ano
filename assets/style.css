@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
 
 :root{
-   
+   --bg-color: #5b021e;
+   --primary-color: #ff008c;
+   --secondar-color: #5b021e;
+   --tipo-fonte: "Genos", sans-serif;
 }
 
 
